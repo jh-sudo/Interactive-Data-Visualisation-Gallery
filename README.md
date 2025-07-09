@@ -13,7 +13,7 @@ Each visualisation is modular and encapsulated in its own JavaScript class. User
 
 ## 🌐 Live Preview
 
-
+https://raw.githack.com/jh-sudo/Interactive-Data-Visualisation-Gallery/refs/heads/main/index.html
 
 ---
 ### 📈 Visualisations Included
